@@ -230,3 +230,4 @@ app.listen(PORT, () => {
     console.log(`Mindful Journal server running on port ${PORT}`);
     console.log(`Visit http://localhost:${PORT} to start journaling`);
 });
+// Session timeout handling
