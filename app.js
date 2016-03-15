@@ -231,3 +231,4 @@ app.listen(PORT, () => {
     console.log(`Visit http://localhost:${PORT} to start journaling`);
 });
 // Session timeout handling
+// Password strength validation
