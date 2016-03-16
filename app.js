@@ -232,3 +232,4 @@ app.listen(PORT, () => {
 });
 // Session timeout handling
 // Password strength validation
+// Email notification system
